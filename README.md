@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @NikVid
-- 👀 I’m interested in web devepment
-- 🌱 I’m currently learning the basics in Pythin, Javascript, and HTML
 - 📫 You can reach me on n.vidic@student.rug.nl
 
 <!---
